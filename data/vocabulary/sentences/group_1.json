@@ -1,0 +1,59 @@
+{
+  "category": "group_1",
+  "translations": {
+    "de": { "name": "Eins", "description": "asdasdasas" },
+    "en": { "name": "One", "description": "asdasdasas" }
+  },
+  "vocabulary": [
+    {
+      "id": "please-give-a-pork",
+      "characters": "请给一个猪肉的",
+      "pinyin": "Qing ge3i wo3 yi2 ge zhu1 ro4u de",
+      "audio": "please-give-a-pork.mp3",
+      "translations": {
+        "de": "Bitte eines mit Schweinefleisch",
+        "en": "Please me one with pork"
+      }
+    },
+    {
+      "id": "please-give-a-fried-bao-pork",
+      "characters": "请给一个猪肉的水煎包",
+      "pinyin": "Qing ge3i wo3 yi2 ge zhu1 ro4u shui3 jia3n ba1o",
+      "audio": "please-give-a-pork.mp3",
+      "translations": {
+        "de": "Bitte ein gebratenes Bao mit Schweinefleisch",
+        "en": "Please give me a fried Bao with pork"
+      }
+    },
+    {
+      "id": "please-give-me-a-cup-water",
+      "characters": "请给我一个被水",
+      "pinyin": "Qin3g ge3i wo3 yi1 ge4 be4i Shui3",
+      "audio": "please-give-me-a-cup-water.mp3",
+      "translations": {
+        "de": "Bitte gib mir ein Wasser",
+        "en": "Please give me some water"
+      }
+    },
+    {
+      "id": "please-give-me-a-cup-water2",
+      "characters": "请给我一个被水",
+      "pinyin": "Qin3g ge3i wo3 yi1 ge4 be4i Shui3",
+      "audio": "please-give-me-a-cup-water.mp3",
+      "translations": {
+        "de": "Sie haben",
+        "en": "They have"
+      }
+    },
+    {
+      "id": "please-give-me-a-cup-water3",
+      "characters": "请给我一个被水",
+      "pinyin": "Qin3g ge3i wo3 yi1 ge4 be4i Shui3",
+      "audio": "please-give-me-a-cup-water.mp3",
+      "translations": {
+        "de": "Sie haben",
+        "en": "They have"
+      }
+    }
+  ]
+}

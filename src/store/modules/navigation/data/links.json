@@ -1,0 +1,27 @@
+[
+  {
+    "id": "categories",
+    "path": "/categories",
+    "name": "Categories"
+  },
+  {
+    "id": "lessons",
+    "path": "/lessons",
+    "name": "Lessons"
+  },
+  {
+    "id": "groups",
+    "path": "/sentences",
+    "name": "Sentences"
+  },
+  {
+    "id": "trainings",
+    "path": "/trainings",
+    "name": "Trainings"
+  },
+  {
+    "id": "search",
+    "path": "/search",
+    "name": "Search"
+  }
+]

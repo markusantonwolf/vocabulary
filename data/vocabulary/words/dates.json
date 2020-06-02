@@ -1,0 +1,159 @@
+{
+  "category": "dates",
+  "translations": {
+    "de": "Datum",
+    "en": "Dates"
+  },
+  "vocabulary": [
+    {
+      "id": "year",
+      "characters": "年",
+      "pinyin": "Nia2n",
+      "audio": "year.mp3",
+      "translations": {
+        "de": "Jahr",
+        "en": "Year"
+      }
+    },
+    {
+      "id": "month",
+      "characters": "月",
+      "pinyin": "Yue2",
+      "audio": "month.mp3",
+      "translations": {
+        "de": "Monat",
+        "en": "Month"
+      }
+    },
+    {
+      "id": "day",
+      "characters": "天",
+      "pinyin": "Tia1n",
+      "audio": "day.mp3",
+      "translations": {
+        "de": "Tag",
+        "en": "Day"
+      }
+    },
+    {
+      "id": "week",
+      "characters": "星期",
+      "pinyin": "Xi1ng qi2",
+      "audio": "week.mp3",
+      "translations": {
+        "de": "Woche",
+        "en": "Week"
+      }
+    },
+    {
+      "id": "yesterday",
+      "characters": "昨天",
+      "pinyin": "Zuo2 tia1n",
+      "audio": "yesterday.mp3",
+      "translations": {
+        "de": "gestern",
+        "en": "yesterday"
+      }
+    },
+    {
+      "id": "today",
+      "characters": "今天",
+      "pinyin": "Ji1n tia1n",
+      "audio": "today.mp3",
+      "translations": {
+        "de": "heute",
+        "en": "today"
+      }
+    },
+    {
+      "id": "tomorrow",
+      "characters": "明天",
+      "pinyin": "Mi2ng tia1n",
+      "audio": "tomorrow.mp3",
+      "translations": {
+        "de": "morgen",
+        "en": "tomorrow"
+      }
+    },
+    {
+      "id": "next-week",
+      "characters": "下個星期",
+      "pinyin": "Xia4 ge4 xi1ng qi1",
+      "audio": "next-week.mp3",
+      "translations": {
+        "de": "nächste Woche",
+        "en": "next week"
+      }
+    },
+    {
+      "id": "monday",
+      "characters": "星期一",
+      "pinyin": "Xi1ng qi2 yi1",
+      "audio": "monday.mp3",
+      "translations": {
+        "de": "Montag",
+        "en": "Monday"
+      }
+    },
+    {
+      "id": "tuesday",
+      "characters": "星期二",
+      "pinyin": "Xi1ng qi2 e4r",
+      "audio": "tuesday.mp3",
+      "translations": {
+        "de": "Dienstag",
+        "en": "Tuesday"
+      }
+    },
+    {
+      "id": "wednesday",
+      "characters": "星期三",
+      "pinyin": "Xi1ng qi2 sa1n",
+      "audio": "wednesday.mp3",
+      "translations": {
+        "de": "Mittwoch",
+        "en": "Wednesday"
+      }
+    },
+    {
+      "id": "thursday",
+      "characters": "星期四",
+      "pinyin": "Xi1ng qi2 si4",
+      "audio": "thursday.mp3",
+      "translations": {
+        "de": "Donnerstag",
+        "en": "Thursday"
+      }
+    },
+    {
+      "id": "friday",
+      "characters": "星期五",
+      "pinyin": "Xi1ng qi2 wu3",
+      "audio": "friday.mp3",
+      "translations": {
+        "de": "Freitag",
+        "en": "Friday"
+      }
+    },
+    {
+      "id": "saturday",
+      "characters": "星期六",
+      "pinyin": "Xi1ng qi2 liu4",
+      "audio": "saturday.mp3",
+      "translations": {
+        "de": "Samstag",
+        "en": "Saturday"
+      }
+    },
+    {
+      "id": "sunday",
+      "characters": "星期日",
+      "pinyin": "Xi1ng qi2 tia1n",
+      "audio": "sunday.mp3",
+      "translations": {
+        "de": "Sonntag",
+        "en": "Sunday"
+      }
+    }
+  ]
+}

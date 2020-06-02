@@ -1,0 +1,159 @@
+{
+  "category": "persons",
+  "translations": {
+    "de": "Personen",
+    "en": "Persons"
+  },
+  "vocabulary": [
+    {
+      "id": "i",
+      "characters": "我",
+      "pinyin": "Wo3",
+      "audio": "i.mp3",
+      "translations": {
+        "de": "Ich",
+        "en": "I"
+      }
+    },
+    {
+      "id": "i-am",
+      "characters": "我是",
+      "pinyin": "Wo3 shi4",
+      "audio": "i-am.mp3",
+      "translations": {
+        "de": "Ich bin",
+        "en": "I am"
+      }
+    },
+    {
+      "id": "i-have",
+      "characters": "我有",
+      "pinyin": "Wo3 yo3u",
+      "audio": "i-have.mp3",
+      "translations": {
+        "de": "Ich habe",
+        "en": "I have"
+      }
+    },
+    {
+      "id": "you",
+      "characters": "你",
+      "pinyin": "Ni3",
+      "audio": "you.mp3",
+      "translations": {
+        "de": "Du",
+        "en": "You"
+      }
+    },
+    {
+      "id": "you-are",
+      "characters": "你是",
+      "pinyin": "Ni3 shi4",
+      "audio": "you-are.mp3",
+      "translations": {
+        "de": "Du bist",
+        "en": "You are"
+      }
+    },
+    {
+      "id": "you-have",
+      "characters": "你有",
+      "pinyin": "Ni3 yo3u",
+      "audio": "you-have.mp3",
+      "translations": {
+        "de": "Du hast",
+        "en": "You have"
+      }
+    },
+    {
+      "id": "he",
+      "characters": "他",
+      "pinyin": "Ta1",
+      "audio": "he.mp3",
+      "translations": {
+        "de": "Er, Sie, Es",
+        "en": "he, she, it"
+      }
+    },
+    {
+      "id": "he-is",
+      "characters": "他是",
+      "pinyin": "Ta1 shi4",
+      "audio": "he-is.mp3",
+      "translations": {
+        "de": "Er, Sie, Es ist",
+        "en": "he, she, it is"
+      }
+    },
+    {
+      "id": "he-has",
+      "characters": "他有",
+      "pinyin": "Ta1 yo3u",
+      "audio": "he-has.mp3",
+      "translations": {
+        "de": "Er, Sie, Es hat",
+        "en": "he, she, it has"
+      }
+    },
+    {
+      "id": "we",
+      "characters": "我們",
+      "pinyin": "Wo3 men",
+      "audio": "we.mp3",
+      "translations": {
+        "de": "Wir",
+        "en": "We"
+      }
+    },
+    {
+      "id": "we-are",
+      "characters": "我們是",
+      "pinyin": "Wo3 men shi4",
+      "audio": "we-are.mp3",
+      "translations": {
+        "de": "Wir sind",
+        "en": "We are"
+      }
+    },
+    {
+      "id": "we-have",
+      "characters": "我們有",
+      "pinyin": "Wo3 men yo3u",
+      "audio": "test.mp3",
+      "translations": {
+        "de": "Wir haben",
+        "en": "We have"
+      }
+    },
+    {
+      "id": "they",
+      "characters": "他們",
+      "pinyin": "Ta1 men",
+      "audio": "test.mp3",
+      "translations": {
+        "de": "Sie (Mehrzahl)",
+        "en": "They"
+      }
+    },
+    {
+      "id": "they-are",
+      "characters": "他們是",
+      "pinyin": "Ta3 men shi4",
+      "audio": "test.mp3",
+      "translations": {
+        "de": "Sie sind",
+        "en": "They are"
+      }
+    },
+    {
+      "id": "they-have",
+      "characters": "他們有",
+      "pinyin": "Ta1 men yo3u",
+      "audio": "test.mp3",
+      "translations": {
+        "de": "Sie haben",
+        "en": "They have"
+      }
+    }
+  ]
+}

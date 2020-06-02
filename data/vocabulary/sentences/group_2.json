@@ -1,0 +1,54 @@
+{
+  "category": "group_2",
+  "translations": {
+    "de": { "name": "Bestellen", "description": "Essen oder Getränke bestellen" },
+    "en": { "name": "Ordering", "description": "Order food or drinks" }
+  },
+  "vocabulary": [
+    {
+      "id": "please-i-want-one-pearl-milk-tea",
+      "characters": "请给我一杯珍珠奶茶",
+      "pinyin": "Qin3g ge3i wo3 yi1 be1i zhe1n zhu1 na1i cha2",
+      "translations": {
+        "de": "Bitte gib mir einen Bubble Tea",
+        "en": "Please I want one pearl milk tea"
+      }
+    },
+    {
+      "id": "how-much-is-it",
+      "characters": "多少錢",
+      "pinyin": "Duo1 sha3o qia2n",
+      "translations": {
+        "de": "Wie viel kostet das?",
+        "en": "How much is it?"
+      }
+    },
+    {
+      "id": "please-give-me-three-with-pork",
+      "characters": "請給我一個豬肉的",
+      "pinyin": "Qin3g ge3i wo3 sa3n zhu1 ro4u de",
+      "translations": {
+        "de": "Bitte gib mir drei mit Schweinefleisch",
+        "en": "Please give me three with pork"
+      }
+    },
+    {
+      "id": "please-give-me-two-fried-buns-with-pork",
+      "characters": "請給我一個豬肉的",
+      "pinyin": "Qin3g ge3i wo3 lia3ng zhu1 ro4u Shui3 jia1n ba1o",
+      "translations": {
+        "de": "Bitte gib mir zwei gebratene Hefeklöße mit Schweinefleisch",
+        "en": "Please give me two fried buns with pork"
+      }
+    },
+    {
+      "id": "please-give-me-two-fried-buns-with-cabbage",
+      "characters": "請給我一個豬肉的",
+      "pinyin": "Qin3g ge3i wo3 lia3ng Ga1o li4 ca4i Shui3 jia1n ba1o",
+      "translations": {
+        "de": "Bitte gib mir zwei gebratene Hefeklöße mit Kohl",
+        "en": "Please give me two fried buns with cabbage"
+      }
+    }
+  ]
+}

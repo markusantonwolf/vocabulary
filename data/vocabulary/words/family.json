@@ -1,0 +1,27 @@
+{
+  "category": "family",
+  "translations": {
+    "de": "Familie",
+    "en": "Family"
+  },
+  "vocabulary": [
+    {
+      "id": "daughter",
+      "characters": "女兒",
+      "pinyin": "Nü3 er2",
+      "translations": {
+        "de": "Tochter",
+        "en": "Daughter"
+      }
+    },
+    {
+      "id": "mum",
+      "characters": "媽媽",
+      "pinyin": "Ma1 ma1",
+      "translations": {
+        "de": "Mama",
+        "en": "Mum"
+      }
+    }
+  ]
+}

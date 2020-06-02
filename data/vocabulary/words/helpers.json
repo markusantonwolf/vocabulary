@@ -1,0 +1,302 @@
+{
+  "category": "helpers",
+  "translations": {
+    "de": "Helfer",
+    "en": "Helpers"
+  },
+  "vocabulary": [
+    {
+      "id": "who",
+      "characters": "誰",
+      "pinyin": "She2i",
+      "audio": "pork.mp3",
+      "translations": {
+        "de": "Wer",
+        "en": "who"
+      }
+    },
+    {
+      "id": "this-one",
+      "characters": "這個",
+      "pinyin": "Zhe4 ge",
+      "audio": "pork.mp3",
+      "translations": {
+        "de": "Das da",
+        "en": "this one"
+      }
+    },
+    {
+      "id": "beautiful",
+      "characters": "美好",
+      "pinyin": "Me3i ha3o",
+      "translations": {
+        "de": "schön",
+        "en": "beautiful"
+      }
+    },
+    {
+      "id": "very-good",
+      "characters": "很好",
+      "pinyin": "He3n ha3o",
+      "translations": {
+        "de": "Sehr gut",
+        "en": "Very good"
+      }
+    },
+    {
+      "id": "many",
+      "characters": "多",
+      "pinyin": "Duo1",
+      "lesson": "2020-05-29",
+      "translations": {
+        "de": "viele",
+        "en": "many"
+      }
+    },
+    {
+      "id": "how-much",
+      "characters": "多少",
+      "pinyin": "Duo1 shao",
+      "translations": {
+        "de": "Wie viel?",
+        "en": "How much?"
+      }
+    },
+    {
+      "id": "where-is-it",
+      "characters": "在哪裡",
+      "pinyin": "Za4i na3 li3",
+      "audio": "where-is-it.mp3",
+      "translations": {
+        "de": "Wo ist es?",
+        "en": "Where is it?"
+      }
+    },
+    {
+      "id": "like",
+      "characters": "喜歡",
+      "pinyin": "Xi3 hua1n",
+      "audio": "like.mp3",
+      "translations": {
+        "de": "mögen",
+        "en": "to like"
+      }
+    },
+    {
+      "id": "wish-want",
+      "characters": "想要",
+      "pinyin": "Xia3ng ya4o",
+      "translations": {
+        "de": "möchte",
+        "en": "want to (have)"
+      }
+    },
+    {
+      "id": "need",
+      "characters": "需要",
+      "pinyin": "Xü1 ya4o",
+      "translations": {
+        "de": "brauchen",
+        "en": "need"
+      }
+    },
+    {
+      "id": "no-not",
+      "characters": "不",
+      "pinyin": "Bu2",
+      "translations": {
+        "de": "nein / ohne",
+        "en": "No / Not"
+      }
+    },
+    {
+      "id": "go-to",
+      "characters": "去",
+      "pinyin": "Qu4",
+      "translations": {
+        "de": "Gehen nach",
+        "en": "Go to"
+      }
+    },
+    {
+      "id": "to-not-have",
+      "lesson": "2020-05-29",
+      "characters": "没有",
+      "pinyin": "Me2i yo3u",
+      "translations": {
+        "de": "nicht haben",
+        "en": "to not have"
+      }
+    },
+    {
+      "id": "very-many",
+      "lesson": "2020-05-29",
+      "characters": "很多",
+      "pinyin": "He3n duo1",
+      "translations": {
+        "de": "sehr viele",
+        "en": "very many"
+      }
+    },
+    {
+      "id": "very-few",
+      "lesson": "2020-05-29",
+      "characters": "很少",
+      "pinyin": "He3n sha3o",
+      "translations": {
+        "de": "sehr wenige",
+        "en": "very feq"
+      }
+    },
+    {
+      "id": "don-t-know",
+      "lesson": "2020-05-29",
+      "characters": "不知道",
+      "pinyin": "Bu4 zhi1 da4o",
+      "translations": {
+        "de": "Weiß nicht",
+        "en": "don't know"
+      }
+    },
+    {
+      "id": "know",
+      "lesson": "2020-05-29",
+      "characters": "知道",
+      "pinyin": "Zhi1 da4o",
+      "translations": {
+        "de": "wissen",
+        "en": "know"
+      }
+    },
+    {
+      "id": "rain",
+      "lesson": "2020-05-29",
+      "characters": "下雨",
+      "pinyin": "Xia4 yu3",
+      "translations": {
+        "de": "Regen",
+        "en": "rain"
+      }
+    },
+    {
+      "id": "umbrella",
+      "lesson": "2020-05-29",
+      "characters": "雨傘",
+      "pinyin": "Yu3 sa3n",
+      "translations": {
+        "de": "Regenschirm",
+        "en": "Umbrella"
+      }
+    },
+    {
+      "id": "size",
+      "lesson": "2020-05-29",
+      "characters": "大小",
+      "pinyin": "Da4 xia3o",
+      "translations": {
+        "de": "größe",
+        "en": "size"
+      }
+    },
+    {
+      "id": "its-raining",
+      "lesson": "2020-05-29",
+      "characters": "下雨了",
+      "pinyin": "Xia4 yu3 le",
+      "translations": {
+        "de": "es regnet",
+        "en": "It's raining"
+      }
+    },
+    {
+      "id": "too-spicy",
+      "lesson": "2020-05-29",
+      "characters": "太辣了",
+      "pinyin": "Ta4i la4 le",
+      "translations": {
+        "de": "zu scharf",
+        "en": "too spicy"
+      }
+    },
+    {
+      "id": "so-delicious",
+      "lesson": "2020-05-29",
+      "characters": "太好吃了",
+      "pinyin": "Ta4i ha4o chi1 le",
+      "translations": {
+        "de": "sehr lecker",
+        "en": "so delicious"
+      }
+    },
+    {
+      "id": "too-expensive",
+      "lesson": "2020-05-29",
+      "characters": "太貴了",
+      "pinyin": "Ta4i gui4 le",
+      "translations": {
+        "de": "zu teuer",
+        "en": "too expensive"
+      }
+    },
+    {
+      "id": "too-much",
+      "lesson": "2020-05-29",
+      "characters": "太多了",
+      "pinyin": "Ta4i duo1 le",
+      "translations": {
+        "de": "zu viel",
+        "en": "too much"
+      }
+    },
+    {
+      "id": "small",
+      "lesson": "2020-05-29",
+      "characters": "小",
+      "pinyin": "Xia3o",
+      "translations": {
+        "de": "klein",
+        "en": "small"
+      }
+    },
+    {
+      "id": "big",
+      "lesson": "2020-05-29",
+      "characters": "大",
+      "pinyin": "Da4",
+      "translations": {
+        "de": "groß",
+        "en": "big"
+      }
+    },
+    {
+      "id": "which",
+      "lesson": "2020-05-29",
+      "characters": "哪",
+      "pinyin": "Na3",
+      "translations": {
+        "de": "welches",
+        "en": "which"
+      }
+    },
+    {
+      "id": "me-too",
+      "lesson": "2020-05-29",
+      "characters": "我也",
+      "pinyin": "Wo3 ye3",
+      "translations": {
+        "de": "ich auch",
+        "en": "me-too"
+      }
+    },
+    {
+      "id": "give",
+      "lesson": "",
+      "characters": "給",
+      "pinyin": "Gei3",
+      "translations": {
+        "de": "geben",
+        "en": "give"
+      }
+    }
+  ]
+}

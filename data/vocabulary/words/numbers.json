@@ -1,0 +1,130 @@
+{
+  "category": "numbers",
+  "translations": {
+    "de": "Nummers",
+    "en": "Numbers"
+  },
+  "vocabulary": [
+    {
+      "id": "zero",
+      "characters": "零",
+      "pinyin": "Li2ng",
+      "audio": "zero.mp3",
+      "translations": {
+        "de": "Null",
+        "en": "zero"
+      }
+    },
+    {
+      "id": "one",
+      "characters": "一",
+      "pinyin": "Yi1",
+      "audio": "one.mp3",
+      "translations": {
+        "de": "Eins",
+        "en": "One"
+      }
+    },
+    {
+      "id": "two",
+      "characters": "二",
+      "pinyin": "E4r",
+      "audio": "two.mp3",
+      "translations": {
+        "de": "Zwei",
+        "en": "Two"
+      }
+    },
+
+    {
+      "id": "two-things",
+      "characters": "兩",
+      "pinyin": "Lia3ng",
+      "audio": "test.mp3",
+      "translations": {
+        "de": "Zwei Sachen",
+        "en": "Two things"
+      }
+    },
+    {
+      "id": "three",
+      "characters": "三",
+      "pinyin": "Sa1n",
+      "audio": "three.mp3",
+      "translations": {
+        "de": "Drei",
+        "en": "Three"
+      }
+    },
+    {
+      "id": "four",
+      "characters": "四",
+      "pinyin": "Si4",
+      "audio": "four.mp3",
+      "translations": {
+        "de": "Vier",
+        "en": "Four"
+      }
+    },
+    {
+      "id": "five",
+      "characters": "五",
+      "pinyin": "Wu3",
+      "audio": "five.mp3",
+      "translations": {
+        "de": "Fünf",
+        "en": "Five"
+      }
+    },
+    {
+      "id": "six",
+      "characters": "六",
+      "pinyin": "Liu4",
+      "audio": "six.mp3",
+      "translations": {
+        "de": "Sechs",
+        "en": "Six"
+      }
+    },
+    {
+      "id": "seven",
+      "characters": "七",
+      "pinyin": "Qi1",
+      "audio": "seven.mp3",
+      "translations": {
+        "de": "Sieben",
+        "en": "Seven"
+      }
+    },
+    {
+      "id": "eight",
+      "characters": "八",
+      "pinyin": "Ba1",
+      "audio": "eight.mp3",
+      "translations": {
+        "de": "Acht",
+        "en": "Eight"
+      }
+    },
+    {
+      "id": "nine",
+      "characters": "九",
+      "pinyin": "Jiu3",
+      "audio": "nine.mp3",
+      "translations": {
+        "de": "Neun",
+        "en": "Nine"
+      }
+    },
+    {
+      "id": "ten",
+      "characters": "十",
+      "pinyin": "Shi2",
+      "audio": "ten.mp3",
+      "translations": {
+        "de": "Zehn",
+        "en": "Ten"
+      }
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "category": "greetings",
+  "translations": {
+    "de": "Begrüßung",
+    "en": "Greetings"
+  },
+  "vocabulary": [
+    {
+      "id": "good",
+      "characters": "好",
+      "pinyin": "Ha3o",
+      "audio": "good.mp3",
+      "translations": {
+        "de": "gut",
+        "en": "good"
+      }
+    },
+    {
+      "id": "hello",
+      "characters": "你好",
+      "pinyin": "Ni3 ha3o",
+      "audio": "i-am.mp3",
+      "translations": {
+        "de": "Hallo",
+        "en": "Hello"
+      }
+    },
+    {
+      "id": "how-are-you",
+      "characters": "你好嗎",
+      "pinyin": "Ni3 ha3o ma?",
+      "audio": "i-am.mp3",
+      "translations": {
+        "de": "Wie gehts dir?",
+        "en": "How are you?"
+      }
+    },
+    {
+      "id": "morning",
+      "characters": "早",
+      "pinyin": "Za3o",
+      "audio": "morning.mp3",
+      "translations": {
+        "de": "Morgen",
+        "en": "Morning"
+      }
+    },
+    {
+      "id": "please",
+      "characters": "請",
+      "pinyin": "Qin3g",
+      "audio": "morning.mp3",
+      "translations": {
+        "de": "Bitte",
+        "en": "Please"
+      }
+    },
+    {
+      "id": "excuse-me",
+      "characters": "請",
+      "pinyin": "Qin3g we4n",
+      "audio": "morning.mp3",
+      "translations": {
+        "de": "Entschuldigen Sie",
+        "en": "Excuse me"
+      }
+    },
+    {
+      "id": "good-morning",
+      "characters": "早上好",
+      "pinyin": "Za3o shang ha3o",
+      "audio": "good-morning.mp3",
+      "translations": {
+        "de": "Guten morgen",
+        "en": "Good morning"
+      }
+    },
+    {
+      "id": "youre-welcome",
+      "characters": "別客氣",
+      "pinyin": "bie2 ke4 qi",
+      "translations": {
+        "de": "Bitteschön",
+        "en": "you're welcome"
+      }
+    },
+    {
+      "id": "thank-you",
+      "characters": "謝謝",
+      "pinyin": "Xie4 xie4",
+      "translations": {
+        "de": "Danke",
+        "en": "Thank you"
+      }
+    },
+    {
+      "id": "correct",
+      "characters": "對",
+      "pinyin": "Dui4",
+      "translations": {
+        "de": "Korrekt (Ja)",
+        "en": "Correct (Yes)"
+      }
+    }
+  ]
+}

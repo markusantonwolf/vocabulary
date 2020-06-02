@@ -1,0 +1,188 @@
+{
+  "category": "food",
+  "translations": {
+    "de": "Essen",
+    "en": "Food"
+  },
+  "vocabulary": [
+    {
+      "id": "pork",
+      "characters": "豬肉",
+      "pinyin": "Zhu1 rou4",
+      "audio": "pork.mp3",
+      "translations": {
+        "de": "Schweinefleisch",
+        "en": "Pork"
+      }
+    },
+    {
+      "id": "steak",
+      "characters": "牛排",
+      "pinyin": "Niu2 pai2",
+      "audio": "steak.mp3",
+      "translations": {
+        "de": "Steak",
+        "en": "Steak"
+      }
+    },
+    {
+      "id": "beef",
+      "characters": "牛肉",
+      "pinyin": "Niu2 rou4",
+      "audio": "beef.mp3",
+      "translations": {
+        "de": "Rindfleisch",
+        "en": "Beef"
+      }
+    },
+    {
+      "id": "garlic-chives",
+      "characters": "韭菜",
+      "pinyin": "Jiu1 cai4",
+      "audio": "garlic-chives.mp3",
+      "translations": {
+        "de": "Lauch",
+        "en": "Garlic chives"
+      }
+    },
+    {
+      "id": "cabbage",
+      "characters": "高麗菜",
+      "pinyin": "Gao1 li4 cai4",
+      "audio": "cabbage.mp3",
+      "translations": {
+        "de": "Kohl",
+        "en": "Cabbage"
+      }
+    },
+    {
+      "id": "beef-noodle-soup",
+      "characters": "牛肉面",
+      "pinyin": "Niu2 rou4 mian2",
+      "audio": "cabbage.mp3",
+      "translations": {
+        "de": "Rindernudelsuppe",
+        "en": "Beef noodle soup"
+      }
+    },
+    {
+      "id": "beer",
+      "characters": "啤酒",
+      "pinyin": "Pi2 jiu3",
+      "audio": "beer.mp3",
+      "translations": {
+        "de": "Bier",
+        "en": "Beer"
+      }
+    },
+    {
+      "id": "milk-tea",
+      "characters": "奶茶",
+      "pinyin": "Nai3 cha2",
+      "audio": "beer.mp3",
+      "translations": {
+        "de": "Milchtee",
+        "en": "Milk tea"
+      }
+    },
+    {
+      "id": "pearls",
+      "characters": "珍珠",
+      "pinyin": "Zhen1 zhu1",
+      "translations": {
+        "de": "Perlen",
+        "en": "Pearls"
+      }
+    },
+    {
+      "id": "pearl-milk-tea",
+      "characters": "珍珠奶茶",
+      "pinyin": "Zhen1 zhu1 nai3 cha2",
+      "translations": {
+        "de": "Milchtee mit Perlen",
+        "en": "Pearl milk tea"
+      }
+    },
+    {
+      "id": "sugar",
+      "characters": "糖",
+      "pinyin": "Tang2",
+      "translations": {
+        "de": "Zucker",
+        "en": "Sugar"
+      }
+    },
+    {
+      "id": "cup",
+      "characters": "杯",
+      "pinyin": "Bei1",
+      "translations": {
+        "de": "Tasse",
+        "en": "cup"
+      }
+    },
+    {
+      "id": "glass",
+      "characters": "杯子",
+      "pinyin": "Bei1 zi",
+      "translations": {
+        "de": "Glass",
+        "en": "glass"
+      }
+    },
+    {
+      "id": "coke",
+      "characters": "可樂",
+      "pinyin": "Ke3 le4",
+      "translations": {
+        "de": "Cola",
+        "en": "Coke"
+      }
+    },
+    {
+      "id": "eating",
+      "characters": "吃飯",
+      "pinyin": "Chi1 fan4",
+      "translations": {
+        "de": "Essen",
+        "en": "Eating"
+      }
+    },
+    {
+      "id": "ramen",
+      "characters": "拉面",
+      "pinyin": "La1 mian4",
+      "translations": {
+        "de": "Ramen (Suppe)",
+        "en": "Ramen (Soup)"
+      }
+    },
+    {
+      "id": "sushi",
+      "characters": "壽司",
+      "pinyin": "Shuo4 si1",
+      "translations": {
+        "de": "Sushi",
+        "en": "Sushi"
+      }
+    },
+    {
+      "id": "pan-fried-buns",
+      "characters": "水煎包",
+      "pinyin": "Shui3 jian1 bao1",
+      "translations": {
+        "de": "Gebratene Hefekloß",
+        "en": "Pan fried buns"
+      }
+    },
+    {
+      "id": "steamed-buns",
+      "characters": "包子",
+      "pinyin": "Bao1 zi",
+      "translations": {
+        "de": "Gedämpfter Hefekloß",
+        "en": "Steamed buns"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "category": "vacation",
+  "translations": {
+    "de": "Urlaub",
+    "en": "Vacation"
+  },
+  "vocabulary": [
+    {
+      "id": "hiking",
+      "characters": "爬山",
+      "pinyin": "Pa2 sha1n",
+      "translations": {
+        "de": "Bergsteigen",
+        "en": "hiking"
+      }
+    },
+    {
+      "id": "city",
+      "characters": "城市",
+      "pinyin": "Che2ng shi4",
+      "translations": {
+        "de": "Stadt",
+        "en": "City"
+      }
+    }
+  ]
+}

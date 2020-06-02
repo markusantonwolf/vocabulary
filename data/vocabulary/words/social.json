@@ -1,0 +1,54 @@
+{
+  "category": "social",
+  "translations": {
+    "de": "Sozial",
+    "en": "Social"
+  },
+  "vocabulary": [
+    {
+      "id": "boss",
+      "characters": "老闆",
+      "pinyin": "La3o ba3n",
+      "translations": {
+        "de": "Chef",
+        "en": "Boss"
+      }
+    },
+    {
+      "id": "colleague",
+      "characters": "同事",
+      "pinyin": "To2ng shi4",
+      "translations": {
+        "de": "Kollege",
+        "en": "Colleague"
+      }
+    },
+    {
+      "id": "which-country",
+      "characters": "哪國人",
+      "pinyin": "Na3 guo2 re2n",
+      "translations": {
+        "de": "Welches Land",
+        "en": "Which country"
+      }
+    },
+    {
+      "id": "teacher",
+      "characters": "老師",
+      "pinyin": "Lao3 shi1",
+      "translations": {
+        "de": "Lehrer",
+        "en": "Teacher"
+      }
+    },
+    {
+      "id": "friend",
+      "characters": "朋友",
+      "pinyin": "Peng2 you3",
+      "translations": {
+        "de": "Freund",
+        "en": "Friend"
+      }
+    }
+  ]
+}

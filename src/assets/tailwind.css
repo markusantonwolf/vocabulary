@@ -1,0 +1,83 @@
+:root {
+  --vh: 1vh;
+}
+
+@tailwind base;
+@tailwind components;
+
+html,
+body {
+  font-size: 13px;
+}
+
+@screen sm {
+  html,
+  body {
+    font-size: 15px;
+  }
+}
+@screen md {
+  html,
+  body {
+    font-size: 16px;
+  }
+}
+
+input,
+textarea,
+button,
+select,
+div,
+a {
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+.icon {
+  @apply fill-current w-full h-full;
+}
+
+.justify-self-end {
+  justify-self: end;
+}
+
+.drop-shadow {
+  filter: drop-shadow(4px 4px 10px rgba(0, 0, 0, 0.3));
+}
+
+.h-inherit {
+  height: inherit;
+}
+
+.bg-black-a100 {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.bg-white-a500 {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+@tailwind utilities;
+
+.button {
+  @apply bg-pink-800 text-white text-xl font-semibold text-center rounded-xl leading-tight cursor-pointer;
+  box-shadow: inset 1rem 1rem 1rem -0.5rem #ffffff30, inset -1rem -1rem 1rem -0.5rem #00000030, 0 0 1px 2px #96276e30,
+    5px 5px 10px -2px #0000004f;
+  border: 2px solid #ffffff85;
+}
+
+.button:focus,
+.button--click,
+#app:not(.ismobile) .button:hover {
+  box-shadow: inset 1rem 1rem 1rem -0.5rem #00000030, inset -1rem -1rem 1rem -0.5rem #ffffff30, 0 0 1px 2px #96276e30,
+    5px 5px 10px -2px #0000004f;
+  outline: none;
+}
+
+.min-h-screen {
+  min-height: calc(var(--vh) * 100);
+}
+.h-screen {
+  height: calc(var(--vh) * 100);
+}
+.h-screen-1\/2 {
+  height: calc(var(--vh) * 50);
+}
