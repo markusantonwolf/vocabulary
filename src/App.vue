@@ -33,8 +33,8 @@ import Navigation from '@/components/Navigation'
 import TheInstallApp from '@/components/TheInstallApp'
 import TheFooter from '@/components/TheFooter'
 import NavigationPopup from '@/components/NavigationPopup'
-import Notification from '@/components/Notification.vue'
-import TheAddHomescreen from '@/components/TheAddHomescreen.vue'
+import Notification from '@/components/Notification'
+import TheAddHomescreen from '@/components/TheAddHomescreen'
 
 export default {
   name: 'App',
