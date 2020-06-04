@@ -95,7 +95,7 @@ files.forEach(item => {
     }
 
     if (typeof element.lesson !== 'undefined') {
-      if (lessons.indexOf(element.lesson) === -1) {
+      if (lessons.indexOf(element.lesson) === -1 && element.lesson !== '') {
         lessons.push(element.lesson)
       }
     } else {
