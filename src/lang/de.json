@@ -53,7 +53,8 @@
     "trainings": { "title": "Trainieren", "description": "Trainieren Beschreibung" },
     "training": { "title": "Training %{filter}", "description": "Training %{filter} Beschreibung" },
     "card": { "title": "%{card}", "description": "Karte %{card} Beschreibung" },
-    "search": { "title": "Suche", "description": "Ergebnisse für: %{query}" }
+    "search": { "title": "Suche", "description": "Ergebnisse für: %{query}" },
+    "error": { "title": "Fehler", "description": "Die Seite konnte nicht gefunden werden." }
   },
   "navigation": {
     "directionC2L": "Chinese > @:language",

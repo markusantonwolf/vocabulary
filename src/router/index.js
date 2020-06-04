@@ -85,6 +85,12 @@ const routes = [
     props: true,
     component: () => import(/* webpackChunkName: "search" */ '../views/Search.vue'),
   },
+  {
+    path: '/*',
+    name: 'Error',
+    props: true,
+    component: () => import(/* webpackChunkName: "error" */ '../views/Error.vue'),
+  },
 ]
 
 const router = new VueRouter({
