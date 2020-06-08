@@ -1,12 +1,14 @@
 <template>
-  <div class="voice" :class="{'mt-0':playing_init}" v-if="playing_available && playing_init">
-    <div class="action" @click="play()" v-if="!playing_voice">
-      <BaseIcon name="play" svgclass="w-10 h-10"></BaseIcon>
+  <transition name="voice__show">
+    <div class="voice" :class="{'mt-0':playing_init}" v-if="playing_available && playing_init">
+      <div class="voice__action w-12 h-12" @click="play()" v-if="!playing_voice">
+        <BaseIcon name="play"></BaseIcon>
+      </div>
+      <div class="voice__action w-12 h-12" @click="stop()" v-if="playing_voice">
+        <BaseIcon name="pause"></BaseIcon>
+      </div>
     </div>
-    <div class="action" @click="stop()" v-if="playing_voice">
-      <BaseIcon name="pause" svgclass="w-10 h-10"></BaseIcon>
-    </div>
-  </div>
+  </transition>
 </template>
 
 <script>
@@ -62,12 +64,28 @@ export default {
 <style lang="postcss" scoped>
 .voice {
   @apply absolute;
-  top: -2rem;
+  top: -1.5rem;
   left: 50%;
-  transform: translateX(-50%);
+  transform: translateX(-50%) scale(1);
 }
-.action {
-  @apply text-pink-800 p-3;
+.voice__action {
+  @apply text-pink-800 bg-white rounded-full;
 }
+/* purgecss start ignore */
+.voice__show-enter {
+  opacity: 0;
+  transform: translateX(-50%) scale(0.8);
+}
+.voice__show-enter-active {
+  transition: opacity 1s, transform 0.5s;
+}
+.voice__show-leave-active {
+  transition: opacity 1s, transform 0.5s;
+}
+.voice__show-leave-to {
+  opacity: 0;
+  transform: translateX(-50%) scale(0.6);
+}
+/* purgecss end ignore */
 </style>
 
