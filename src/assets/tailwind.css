@@ -32,9 +32,9 @@ a {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
-.icon {
+/* .icon {
   @apply fill-current w-full h-full;
-}
+} */
 
 .justify-self-end {
   justify-self: end;
