@@ -125,6 +125,204 @@
         "de": "Zehn",
         "en": "Ten"
       }
+    },
+    {
+      "id": "eleven",
+      "characters": "十一",
+      "pinyin": "Shi2 yi1",
+      "translations": {
+        "de": "Elf",
+        "en": "Eleven"
+      }
+    },
+    {
+      "id": "twelve",
+      "characters": "十二",
+      "pinyin": "Shi2 er4",
+      "translations": {
+        "de": "Zwölf",
+        "en": "Twelve"
+      }
+    },
+    {
+      "id": "thirteen",
+      "characters": "十三",
+      "pinyin": "Shi2 san1",
+      "translations": {
+        "de": "Dreizehn",
+        "en": "Thirteen"
+      }
+    },
+    {
+      "id": "fourteen",
+      "characters": "十四",
+      "pinyin": "Shi2 san1",
+      "translations": {
+        "de": "Vierzehn",
+        "en": "fourteen"
+      }
+    },
+    {
+      "id": "fifteen",
+      "characters": "十五",
+      "pinyin": "Shi2 wu3",
+      "translations": {
+        "de": "Fünfzehn",
+        "en": "Fifteen"
+      }
+    },
+    {
+      "id": "twenty",
+      "characters": "二十",
+      "pinyin": "Er4 shi2",
+      "translations": {
+        "de": "Zwanzig",
+        "en": "Twenty"
+      }
+    },
+    {
+      "id": "twenty-one",
+      "characters": "二十一",
+      "pinyin": "Er4 shi2 yi1",
+      "translations": {
+        "de": "Einundzwanzig",
+        "en": "Twenty one"
+      }
+    },
+    {
+      "id": "twenty-two",
+      "characters": "二十二",
+      "pinyin": "Er4 shi2 er4",
+      "translations": {
+        "de": "Einundzwanzig",
+        "en": "Twenty two"
+      }
+    },
+    {
+      "id": "one-hundred",
+      "characters": "一百",
+      "pinyin": "Yi1 bai3",
+      "translations": {
+        "de": "Einhundert",
+        "en": "One hundred"
+      }
+    },
+    {
+      "id": "one-hundred-one",
+      "characters": "一百零一",
+      "pinyin": "Yi1 bai3 ling2 yi1",
+      "translations": {
+        "de": "Einhunderteins",
+        "en": "One hundred one"
+      }
+    },
+    {
+      "id": "one-hundred-two",
+      "characters": "一百零二",
+      "pinyin": "Yi1 bai3 ling2 er4",
+      "translations": {
+        "de": "Einhundertzwei",
+        "en": "One hundred two"
+      }
+    },
+    {
+      "id": "one-hundred-two",
+      "characters": "一百零二",
+      "pinyin": "Yi1 bai3 ling2 er4",
+      "translations": {
+        "de": "Einhundertzwei",
+        "en": "One hundred two"
+      }
+    },
+    {
+      "id": "one-hundred-ten",
+      "characters": "一百一十",
+      "pinyin": "Yi1 bai3 yi1 shi2",
+      "translations": {
+        "de": "Einhundertzehn",
+        "en": "One hundred ten"
+      }
+    },
+    {
+      "id": "one-hundred-eleven",
+      "characters": "一百一十一",
+      "pinyin": "Yi1 bai3 yi1 shi2 yi1",
+      "translations": {
+        "de": "Einhundertelf",
+        "en": "One hundred eleven"
+      }
+    },
+    {
+      "id": "one-hundred-twenty",
+      "characters": "一百二十",
+      "pinyin": "Yi1 bai3 er4 shi2",
+      "translations": {
+        "de": "Einhundertzwanzig",
+        "en": "One hundred twenty"
+      }
+    },
+    {
+      "id": "one-hundred-twenty-one",
+      "characters": "一百二十一",
+      "pinyin": "Yi1 bai3 er4 shi2 yi1",
+      "translations": {
+        "de": "Einhunderteinundzwanzig",
+        "en": "One hundred twenty-one"
+      }
+    },
+    {
+      "id": "one-hundred-twenty-two",
+      "characters": "一百二十二",
+      "pinyin": "Yi1 bai3 er4 shi2 er4",
+      "translations": {
+        "de": "Einhundertzweiundzwanzig",
+        "en": "One hundred twenty-two"
+      }
+    },
+    {
+      "id": "one-hundred-thirty",
+      "characters": "一百三十",
+      "pinyin": "Yi1 bai3 san1 shi2",
+      "translations": {
+        "de": "Einhundertdreißig",
+        "en": "One hundred thirty"
+      }
+    },
+    {
+      "id": "one-hundred-forty",
+      "characters": "一百四十",
+      "pinyin": "Yi1 bai3 si4 shi2",
+      "translations": {
+        "de": "Einhundertvierzig",
+        "en": "One hundred forty"
+      }
+    },
+    {
+      "id": "one thousand",
+      "characters": "一千",
+      "pinyin": "Yi1 qian1",
+      "translations": {
+        "de": "Eintausend",
+        "en": "One thousand"
+      }
+    },
+    {
+      "id": "one thousand one",
+      "characters": "一千零一",
+      "pinyin": "Yi1 qian1 ling2 yi1",
+      "translations": {
+        "de": "Eintausendeins",
+        "en": "One thousand one"
+      }
+    },
+    {
+      "id": "one thousand two",
+      "characters": "一千零二",
+      "pinyin": "Yi1 qian1 ling2 er4",
+      "translations": {
+        "de": "Eintausendzwei",
+        "en": "One thousand two"
+      }
     }
   ]
 }
