@@ -4,11 +4,11 @@
     :class="{'animation-in': animIn, 'animation-out': animOut}"
     v-touch:swipe="swipeHandler"
   >
-    <div class="button next" v-show="hasNext" @click="routePush('next')">
-      <BaseIcon name="angleRight" svgclass="w-6 h-6"></BaseIcon>
+    <div class="button next w-12 h-12" v-show="hasNext" @click="routePush('next')">
+      <BaseIcon name="angleRight"></BaseIcon>
     </div>
-    <div class="button previous" v-show="hasPrevious" @click="routePush('previous')">
-      <BaseIcon name="angleLeft" svgclass="w-6 h-6"></BaseIcon>
+    <div class="button previous w-12 h-12" v-show="hasPrevious" @click="routePush('previous')">
+      <BaseIcon name="angleLeft"></BaseIcon>
     </div>
     <p
       class="text-5xl font-medium"

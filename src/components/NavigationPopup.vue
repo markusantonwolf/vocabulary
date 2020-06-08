@@ -4,7 +4,7 @@
       class="fixed inset-0 w-full h-full max-h-screen z-20 border border-gray-400 items-center bg-white leading-tight"
       v-show="popup"
     >
-      <div class="close absolute text-pink-800 w-8 h-8" @click="closePopup">
+      <div class="close absolute text-pink-800 w-10 h-10" @click="closePopup">
         <BaseIcon name="times"></BaseIcon>
       </div>
       <div class="flex flex-col justify-between items-start p-12 pb-32 h-full">
