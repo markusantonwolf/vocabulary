@@ -1,5 +1,5 @@
 <template>
-  <svg xmlns="http://www.w3.org/2000/svg" :viewBox="viewbox" :class="class_name">
+  <svg xmlns="http://www.w3.org/2000/svg" :viewBox="viewbox" :class="class_list">
     <path :d="path" />
   </svg>
 </template>
@@ -64,38 +64,37 @@ export default {
       required: true,
       type: String,
     },
-    svgclass: {
-      required: false,
-      type: String,
-      default: '',
-    },
-    fill: {
+    full: {
       required: false,
       type: Boolean,
       default: true,
     },
   },
   computed: {
-    path() {
+    path: function() {
       return icons[this.name].path
     },
-    viewbox() {
+    viewbox: function() {
       return icons[this.name].viewbox
     },
-    class_name() {
-      var class_names = []
-      if (this.fill === true) {
-        class_names.push('icon')
-      } else {
-        class_names.push('w-full h-full')
+    class_list: function() {
+      var class_list = []
+      class_list.push('icon')
+      if (this.full === true) {
+        class_list.push('icon--full')
       }
-      if (this.svgclass !== '') {
-        class_names.push(this.svgclass)
-      }
-      return class_names.join(' ')
+      return class_list.join(' ')
     },
   },
 }
 </script>
-
-
+<style lang="postcss" scoped>
+/* purgecss start ignore */
+.icon {
+  @apply fill-current;
+}
+.icon--full {
+  @apply fill-current w-full h-full;
+}
+/* purgecss end ignore */
+</style>
