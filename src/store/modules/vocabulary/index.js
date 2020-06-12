@@ -72,21 +72,41 @@ export const getters = {
     return state.content.find(item => item.id === content_id)
   },
   contentFilter: state => (filter, value) => {
-    return state.content.filter(item => item[filter] === value)
+    return state.content.filter(item => {
+      if (Array.isArray(item[filter])) {
+        return item[filter].includes(value)
+      }
+      return item[filter] === value
+    })
   },
   contentSearch: state => value => {
     const result = state.content.filter(item => lowerCase(item.pinyin_search).indexOf(lowerCase(value)) !== -1)
     return result.sort(compare_type)
   },
   contentIndex: state => (filter, value, content_id, element = 'words') => {
-    var filteredItems = state.content.filter(item => item[filter] === value && item.type === element)
+    var filteredItems = state.content.filter(item => {
+      if (Array.isArray(item[filter])) {
+        return item[filter].includes(value) && item.type === element
+      }
+      return item[filter] === value && item.type === element
+    })
     return filteredItems.findIndex(item => item.id === content_id)
   },
   contentCount: state => (filter, value, element = 'words') => {
-    return state.content.filter(item => item[filter] === value && item.type === element).length
+    return state.content.filter(item => {
+      if (Array.isArray(item[filter])) {
+        return item[filter].includes(value) && item.type === element
+      }
+      return item[filter] === value && item.type === element
+    }).length
   },
   contentNext: state => (filter, value, content_id, type = 'words') => {
-    var filteredItems = state.content.filter(item => item[filter] === value && item.type === type)
+    var filteredItems = state.content.filter(item => {
+      if (Array.isArray(item[filter])) {
+        return item[filter].includes(value) && item.type === type
+      }
+      return item[filter] === value && item.type === type
+    })
     var sentenceIndex = filteredItems.findIndex(item => item.id === content_id)
     if (sentenceIndex < filteredItems.length - 1) {
       sentenceIndex++
@@ -94,7 +114,12 @@ export const getters = {
     return filteredItems[sentenceIndex].id
   },
   contentPrevious: state => (filter, value, content_id, type = 'words') => {
-    var filteredItems = state.content.filter(item => item[filter] === value && item.type === type)
+    var filteredItems = state.content.filter(item => {
+      if (Array.isArray(item[filter])) {
+        return item[filter].includes(value) && item.type === type
+      }
+      return item[filter] === value && item.type === type
+    })
     var sentenceIndex = filteredItems.findIndex(item => item.id === content_id)
     if (sentenceIndex > 0) {
       sentenceIndex--
@@ -102,13 +127,23 @@ export const getters = {
     return filteredItems[sentenceIndex].id
   },
   trainingCardRandom: state => (filter, value) => {
-    var filteredItems = state.content.filter(item => item.type === 'words' && item[filter] === value)
+    var filteredItems = state.content.filter(item => {
+      if (Array.isArray(item[filter])) {
+        return item[filter].includes(value) && item.type === 'words'
+      }
+      return item.type === 'words' && item[filter] === value
+    })
     var random = Math.round(Math.random() * (filteredItems.length - 1))
     return filteredItems[random]
   },
   trainingCardAnswers: state => (filter, value, content_id) => {
     var cards = []
-    var filteredItems = state.content.filter(item => item.type === 'words' && item[filter] === value)
+    var filteredItems = state.content.filter(item => {
+      if (Array.isArray(item[filter])) {
+        return item[filter].includes(value) && item.type === 'words'
+      }
+      return item.type === 'words' && item[filter] === value
+    })
     var wordIndex = filteredItems.findIndex(item => item.id === content_id)
     cards.push(filteredItems[wordIndex])
     filteredItems.splice(wordIndex, 1)
@@ -120,7 +155,12 @@ export const getters = {
     return shuffle(cards)
   },
   trainingCardNext: state => (filter, value, word_id) => {
-    var filteredItems = state.content.filter(item => item.type === 'words' && item[filter] === value)
+    var filteredItems = state.content.filter(item => {
+      if (Array.isArray(item[filter])) {
+        return item[filter].includes(value) && item.type === 'words'
+      }
+      return item.type === 'words' && item[filter] === value
+    })
     var wordIndex = filteredItems.findIndex(item => item.id === word_id)
     filteredItems.splice(wordIndex, 1)
     var random = Math.round(Math.random() * (filteredItems.length - 1))
