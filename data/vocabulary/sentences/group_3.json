@@ -1,0 +1,18 @@
+{
+  "category": "group_3",
+  "translations": {
+    "de": { "name": "Konversation", "description": "Essen oder Getränke bestellen" },
+    "en": { "name": "Conversation", "description": "Order food or drinks" }
+  },
+  "vocabulary": [
+    {
+      "id": "can-i-ask-a-question",
+      "characters": "我可以問問題嗎？",
+      "pinyin": "Wo3 ke3 yi3 wen4 wen4 ti2 ma?",
+      "translations": {
+        "de": "Kann ich eine Frage stellen?",
+        "en": "Can i ask a question?"
+      }
+    }
+  ]
+}

@@ -95,11 +95,20 @@ files.forEach(item => {
     }
 
     if (typeof element.lesson !== 'undefined') {
-      if (lessons.indexOf(element.lesson) === -1 && element.lesson !== '') {
-        lessons.push(element.lesson)
+      let all_lessons = []
+      if (element.lesson.indexOf(',') !== -1) {
+        all_lessons = [..._.split(element.lesson, ',')]
+      } else {
+        all_lessons = [element.lesson]
       }
+      all_lessons.forEach(item => {
+        if (lessons.indexOf(item) === -1 && item !== '') {
+          lessons.push(item)
+        }
+      })
+      element['lesson'] = all_lessons
     } else {
-      element['lesson'] = ''
+      element['lesson'] = []
     }
     _.unset(element, 'translations')
     element['type'] = item.type

@@ -18,6 +18,7 @@
       "id": "colleague",
       "characters": "同事",
       "pinyin": "To2ng shi4",
+      "lesson": "2020-06-08",
       "translations": {
         "de": "Kollege",
         "en": "Colleague"
@@ -27,6 +28,7 @@
       "id": "which-country",
       "characters": "哪國人",
       "pinyin": "Na3 guo2 re2n",
+      "lesson": "2020-06-08",
       "translations": {
         "de": "Welches Land",
         "en": "Which country"
@@ -36,6 +38,7 @@
       "id": "teacher",
       "characters": "老師",
       "pinyin": "Lao3 shi1",
+      "lesson": "2020-06-08",
       "translations": {
         "de": "Lehrer",
         "en": "Teacher"

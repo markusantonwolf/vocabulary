@@ -49,7 +49,7 @@
       "id": "yesterday",
       "characters": "昨天",
       "pinyin": "Zuo2 tia1n",
-      "audio": "yesterday.mp3",
+      "lesson": "2020-06-08",
       "translations": {
         "de": "gestern",
         "en": "yesterday"
@@ -59,7 +59,7 @@
       "id": "today",
       "characters": "今天",
       "pinyin": "Ji1n tia1n",
-      "audio": "today.mp3",
+      "lesson": "2020-06-08",
       "translations": {
         "de": "heute",
         "en": "today"
@@ -69,7 +69,7 @@
       "id": "tomorrow",
       "characters": "明天",
       "pinyin": "Mi2ng tia1n",
-      "audio": "tomorrow.mp3",
+      "lesson": "2020-06-08",
       "translations": {
         "de": "morgen",
         "en": "tomorrow"

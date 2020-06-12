@@ -297,6 +297,56 @@
         "de": "geben",
         "en": "give"
       }
+    },
+    {
+      "id": "with",
+      "lesson": "2020-06-08",
+      "characters": "跟",
+      "pinyin": "Gen1",
+      "translations": {
+        "de": "mit (jemandem)",
+        "en": "with (someone)"
+      }
+    },
+    {
+      "id": "can",
+      "lesson": "2020-06-08",
+      "characters": "可以",
+      "pinyin": "Ke3 yi3",
+      "translations": {
+        "de": "kann (Ich etwas...)",
+        "en": "can (I do...)"
+      }
+    },
+    {
+      "id": "can-i",
+      "lesson": "2020-06-08",
+      "characters": "可以",
+      "pinyin": "Ke3 yi3",
+      "translations": {
+        "de": "kann ich",
+        "en": "can I"
+      }
+    },
+    {
+      "id": "male",
+      "lesson": "2020-06-08",
+      "characters": "男",
+      "pinyin": "Nan2",
+      "translations": {
+        "de": "männlich",
+        "en": "male"
+      }
+    },
+    {
+      "id": "female",
+      "lesson": "2020-06-08",
+      "characters": "女",
+      "pinyin": "Nü3",
+      "translations": {
+        "de": "weiblich",
+        "en": "female"
+      }
     }
   ]
 }
