@@ -33,7 +33,7 @@ export default {
       return this.filter === 'lesson' ? true : false
     },
     filter_name: function() {
-      return this.$t('pages.' + this.filter + '.title')
+      return this.filter === 'lesson' ? this.$t('pages.lessons.title') : this.$t('pages.' + this.filter + '.title')
     },
   },
   methods: {
