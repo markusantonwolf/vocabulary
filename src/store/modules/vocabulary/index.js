@@ -39,6 +39,15 @@ content.forEach(item => {
 categories.sort()
 groups.sort()
 
+function sort_desc(a, b) {
+  if (a > b) {
+    return -1
+  } else if (a < b) {
+    return 1
+  }
+}
+lessons.sort(sort_desc)
+
 export const namespaced = true
 
 export const state = {
