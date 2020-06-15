@@ -1,0 +1,229 @@
+{
+  "category": "fruits",
+  "translations": {
+    "de": "Früchte",
+    "en": "Fruits"
+  },
+  "vocabulary": [
+    {
+      "id": "fruits",
+      "characters": "水果",
+      "pinyin": "Shui3 guo3",
+      "lesson": "2020-06-12",
+      "translations": {
+        "de": "Früchte",
+        "en": "Fruits"
+      }
+    },
+    {
+      "id": "watermelon",
+      "characters": "西瓜",
+      "pinyin": "Xi1 gua1",
+      "lesson": "2020-06-12",
+      "translations": {
+        "de": "Wassermelone",
+        "en": "Watermelon"
+      }
+    },
+    {
+      "id": "mango",
+      "characters": "芒果",
+      "pinyin": "Mang2 guo3",
+      "lesson": "2020-06-12",
+      "translations": {
+        "de": "Mango",
+        "en": "Mango"
+      }
+    },
+    {
+      "id": "grapes",
+      "characters": "葡萄",
+      "pinyin": "Pu2 tao3",
+      "lesson": "2020-06-12",
+      "translations": {
+        "de": "Trauben",
+        "en": "Grapes"
+      }
+    },
+    {
+      "id": "passion-fruit",
+      "characters": "百香果",
+      "pinyin": "Bai3 xiang1 guo3",
+      "lesson": "2020-06-12",
+      "translations": {
+        "de": "Maracuja",
+        "en": "Passion fruit"
+      }
+    },
+    {
+      "id": "muskmelon",
+      "characters": "香瓜",
+      "pinyin": "Xiang1 gua1",
+      "lesson": "2020-06-12",
+      "translations": {
+        "de": "Zuckermelone",
+        "en": "Muskmelon"
+      }
+    },
+    {
+      "id": "muskmelon",
+      "characters": "香瓜",
+      "pinyin": "Xiang1 gua1",
+      "lesson": "2020-06-12",
+      "translations": {
+        "de": "Zuckermelone",
+        "en": "Muskmelon"
+      }
+    },
+    {
+      "id": "wax-apple",
+      "characters": "連霧",
+      "pinyin": "Lian2 wu4",
+      "lesson": "2020-06-12",
+      "translations": {
+        "de": "Wachsapfel",
+        "en": "Wax apple"
+      }
+    },
+    {
+      "id": "papaya",
+      "characters": "木瓜",
+      "pinyin": "Mu4 gua1",
+      "lesson": "2020-06-12",
+      "translations": {
+        "de": "Papaya",
+        "en": "Papaya"
+      }
+    },
+    {
+      "id": "sugar-apple",
+      "characters": "釋迦",
+      "pinyin": "Shi4 jia1",
+      "lesson": "2020-06-12",
+      "translations": {
+        "de": "Zimtapfel",
+        "en": "Sugar apple"
+      }
+    },
+    {
+      "id": "strawberry",
+      "characters": "草莓",
+      "pinyin": "Cao3 mei2",
+      "lesson": "2020-06-12",
+      "translations": {
+        "de": "Erdbeere",
+        "en": "Strawberry"
+      }
+    },
+    {
+      "id": "banana",
+      "characters": "香蕉",
+      "pinyin": "Xiang1 jiao1",
+      "lesson": "2020-06-12",
+      "translations": {
+        "de": "Banane",
+        "en": "Banana"
+      }
+    },
+    {
+      "id": "plum",
+      "characters": "李子",
+      "pinyin": "Li3 zi",
+      "lesson": "2020-06-12",
+      "translations": {
+        "de": "Pflaume",
+        "en": "Plum"
+      }
+    },
+    {
+      "id": "peach",
+      "characters": "水蜜桃",
+      "pinyin": "Shui3 mi4 tao2",
+      "lesson": "2020-06-12",
+      "translations": {
+        "de": "Pfirsiche",
+        "en": "Peach"
+      }
+    },
+    {
+      "id": "water-pear",
+      "characters": "水梨",
+      "pinyin": "Shui3 li2",
+      "lesson": "2020-06-12",
+      "translations": {
+        "de": "Wasserbirne",
+        "en": "Water pear"
+      }
+    },
+    {
+      "id": "durian",
+      "characters": "榴槤",
+      "pinyin": "Liu2 lian2",
+      "lesson": "2020-06-12",
+      "translations": {
+        "de": "Durian",
+        "en": "Durian"
+      }
+    },
+    {
+      "id": "kiwi",
+      "characters": "奇異果",
+      "pinyin": "Qi2 yi4 guo3",
+      "lesson": "2020-06-12",
+      "translations": {
+        "de": "Kiwi",
+        "en": "Kiwi"
+      }
+    },
+    {
+      "id": "orange",
+      "characters": "柳橙",
+      "pinyin": "Liu3 cheng2",
+      "lesson": "2020-06-12",
+      "translations": {
+        "de": "Orange",
+        "en": "Orange"
+      }
+    },
+    {
+      "id": "apple",
+      "characters": "蘋果",
+      "pinyin": "Ping2 guo3",
+      "lesson": "2020-06-12",
+      "translations": {
+        "de": "Apfel",
+        "en": "Apple"
+      }
+    },
+    {
+      "id": "pineapple",
+      "characters": "鳳梨",
+      "pinyin": "Feng4 li2",
+      "lesson": "2020-06-12",
+      "translations": {
+        "de": "Ananas",
+        "en": "Pineapple"
+      }
+    },
+    {
+      "id": "dragon-fruit",
+      "characters": "火龍果",
+      "pinyin": "Huo3 long2 guo3",
+      "lesson": "2020-06-12",
+      "translations": {
+        "de": "Drachenfrucht",
+        "en": "Dragon Fruit"
+      }
+    },
+    {
+      "id": "guava",
+      "characters": "芭樂",
+      "pinyin": "ba1 le4",
+      "lesson": "2020-06-12",
+      "translations": {
+        "de": "Guave",
+        "en": "Guava"
+      }
+    }
+  ]
+}

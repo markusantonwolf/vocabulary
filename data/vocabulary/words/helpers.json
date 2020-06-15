@@ -249,6 +249,16 @@
       }
     },
     {
+      "id": "too-sweet",
+      "lesson": "2020-06-08",
+      "characters": "太甜了",
+      "pinyin": "Tai4 tian2 le",
+      "translations": {
+        "de": "zu süß",
+        "en": "too sweet"
+      }
+    },
+    {
       "id": "small",
       "lesson": "2020-05-29",
       "characters": "小",
@@ -321,8 +331,8 @@
     {
       "id": "can-i",
       "lesson": "2020-06-08",
-      "characters": "可以",
-      "pinyin": "Ke3 yi3",
+      "characters": "我可以",
+      "pinyin": "Wo3 ke3 yi3",
       "translations": {
         "de": "kann ich",
         "en": "can I"
@@ -346,6 +356,26 @@
       "translations": {
         "de": "weiblich",
         "en": "female"
+      }
+    },
+    {
+      "id": "is-it",
+      "lesson": "2020-06-08",
+      "characters": "是嗎",
+      "pinyin": "Shi4 ma",
+      "translations": {
+        "de": "ist es",
+        "en": "is-it"
+      }
+    },
+    {
+      "id": "not-enough",
+      "lesson": "2020-06-08",
+      "characters": "夠不購",
+      "pinyin": "Gou4 bu4 gou4",
+      "translations": {
+        "de": "Nicht genug",
+        "en": "Not enough"
       }
     }
   ]
