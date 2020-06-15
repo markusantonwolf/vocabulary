@@ -66,16 +66,6 @@
       }
     },
     {
-      "id": "muskmelon",
-      "characters": "香瓜",
-      "pinyin": "Xiang1 gua1",
-      "lesson": "2020-06-12",
-      "translations": {
-        "de": "Zuckermelone",
-        "en": "Muskmelon"
-      }
-    },
-    {
       "id": "wax-apple",
       "characters": "連霧",
       "pinyin": "Lian2 wu4",
